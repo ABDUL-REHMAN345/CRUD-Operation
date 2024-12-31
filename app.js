@@ -71,7 +71,6 @@ uploadimg.onchange = function(){
 
     else{
         alert("This file is too large!")
-        
     }
 
 }
